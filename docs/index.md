@@ -3,7 +3,6 @@ title: Приветствуем!
 hide:
   - feedback
 ---
-<head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FYVP33C6EY"></script>
 <script>
@@ -27,7 +26,6 @@ hide:
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/103210143" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-</head>
 
 # Приветствуем!
 
