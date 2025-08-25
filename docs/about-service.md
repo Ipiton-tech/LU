@@ -5,15 +5,6 @@ hide:
   - footnotes
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FYVP33C6EY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FYVP33C6EY');
-</script>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
